@@ -1,7 +1,9 @@
 Interface KUI para SciTE
 
 Ámbitos
-  párrafo (libre, cero)
+  párrafo
+    libre, cero
+    formateado
   Título
   lista (arbol)
     enumerada
@@ -9,4 +11,5 @@ Interface KUI para SciTE
   formato
     subrayado
     negrita
+    italica
   tabla
