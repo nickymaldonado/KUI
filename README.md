@@ -17,7 +17,7 @@ En LaTeX
 \item Dos
 \end{itemize}
 ```
-... tenemos 49 tecleos
+... tenemos **49 tecleos**
 
 En HTML
 ```
@@ -26,14 +26,14 @@ En HTML
 <li>Dos</li>
 </ul>
 ```
-... tenemos 36 tecleos
+... tenemos **36 tecleos**
 
 En un WYSIWIG 
 ```
 * Uno
 Dos
 ```
-...son 10 tecleos, incluyendo el retorno de línea que nos saca de la lista,
+...son *10 tecleos*, incluyendo el retorno de línea que nos saca de la lista,
 los tres códigos generan el mismo resultado.
 Además considerando que según las distribuciones del teclado pueden haber
 caracteres más difíciles de teclear; hay mucha diferencia en la eficiencia
