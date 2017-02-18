@@ -1,0 +1,12 @@
+Interface KUI para SciTE
+
+Ámbitos
+  párrafo (libre, cero)
+  Título
+  lista (arbol)
+    enumerada
+    itemizada
+  formato
+    subrayado
+    negrita
+  tabla
