@@ -5,7 +5,7 @@ KUI es un acrónimo en contraposición a GUI, donde el interface entre la
 persona y el software es mediante un "lenguaje en el tecleo" que hacemos
 al usar un teclado.
 
-Una da las ventajas que tienen los programas WYSIWYG frente a los programas
+Una de las ventajas que tienen los programas WYSIWYG frente a los programas
 en código,
 es la reducida cantidad de tecleo que se requiere para tareas cotidianas,
 por ejemplo al escribir una lista:
@@ -17,7 +17,7 @@ En LaTeX
 \item Dos
 \end{itemize}
 ```
-... tenemos **49 tecleos**
+... tenemos **50 tecleos**
 
 En HTML
 ```
@@ -26,7 +26,7 @@ En HTML
 <li>Dos</li>
 </ul>
 ```
-... tenemos **36 tecleos**
+... tenemos **37 tecleos**
 
 En un WYSIWIG 
 ```
