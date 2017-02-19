@@ -38,3 +38,8 @@ los tres códigos generan el mismo resultado.
 Además considerando que según las distribuciones del teclado pueden haber
 caracteres más difíciles de teclear; hay mucha diferencia en la eficiencia
 con la que redactamos un texto.
+
+En primera instancia reconoceremos ese lenguaje de tecleo en los editores
+WYSIWYG, para documentos de texto generales por ejemplo RTF
+En segunda instancia intentamos crear una librería que permita a un editor
+de texto trabajar como un WYSIWYG para los formatos HTML y LaTeX.
